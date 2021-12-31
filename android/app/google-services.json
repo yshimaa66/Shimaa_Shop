@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18181380974",
+    "project_id": "onmarkerttask",
+    "storage_bucket": "onmarkerttask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18181380974:android:2eafe3e37e0175cb923f7f",
+        "android_client_info": {
+          "package_name": "com.shimaa.onMarketTask.onmarket_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18181380974-lvnc75k34l0f6a24orgv3qcemoi4e1p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYQGuv45zX6EVJGZHV3_G_EXr9VWtgyT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18181380974-lvnc75k34l0f6a24orgv3qcemoi4e1p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
